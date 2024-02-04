@@ -1,0 +1,6 @@
+#contenedor{
+    width: 500px;
+    height: 500px;
+    border: 2px solid;
+    background: linear-gradient(45deg,blue,green,yellow);
+}
