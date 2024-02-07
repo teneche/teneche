@@ -1,6 +1,17 @@
 #contenedor{
-    width: 500px;
-    height: 500px;
+    padding: 0;
+    border: 0;
+
+    width: 300px;
+    height: 300px;
     border: 2px solid;
     background: linear-gradient(45deg,blue,green,yellow);
+}
+#logo{
+    position: relative;
+    border-radius: 1rem;
+    border: solid;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(black,white,orange)
 }
